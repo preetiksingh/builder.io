@@ -9,7 +9,7 @@ font-family: 'Sintony', sans-serif;
 	background-color: #d0a2d8;
 	color:#FFF;
 	text-align:center;
-	padding:0.5em 0; 
+	padding-top:3em; 
 
  nav a {
 	color:#FFF;
@@ -30,7 +30,7 @@ font-family: 'Sintony', sans-serif;
  	margin-top: 2em;
  }
 
- p {
+ p.tagline {
  	font-size:1.3em;
  	margin-top: 1em 0;
  }
@@ -46,6 +46,45 @@ font-family: 'Sintony', sans-serif;
 	text-transform: uppercase;
 	padding:.5em;
 	}
+
+.image-container{
+	position: relative;
+img {
+	margin-top:5em;
+}
+
+.caption{
+	position:absolute;
+	bottom: 1em;
+	left:2em;
+	text-align:left;
+
+p.title {
+	font-size: 1.5em;
+	margin-bottom: 0;
+	font-weight: bold;
+}
+}
+.likes{
+	position:absolute;
+	bottom: 1em;
+	right:1em;
+	font-size: 1.8em;
+i{
+	margin-right: 0.2em;
+}
+
+	
+}
+.edit{
+	position:absolute;
+	top: 1em;
+	right:1em;
+	background-color: rgba(0,0,0,0.6);
+	padding:0.3em;
+	
+}
+}
 
 
 }
