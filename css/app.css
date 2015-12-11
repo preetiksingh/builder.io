@@ -9,7 +9,7 @@ body {
   text-transform: uppercase;
   padding: .5em;
   margin-top: 1em;
-  background-color: #d324f2; }
+  background-color: #c24bf2; }
   .btn-solid:hover {
     color: #FFF; }
 
@@ -19,13 +19,13 @@ body {
   border-radius: 2px;
   text-transform: uppercase;
   padding: 1em;
-  border: 1px solid #d324f2;
+  border: 2px solid #c24bf2;
   margin-top: 1em; }
   .btn-outline:hover {
     color: #C0C4C7; }
 
 #landing {
-  background-color: #d324f2;
+  background-color: #c24bf2;
   color: #FFF;
   text-align: center;
   padding-top: 3em; }
@@ -76,7 +76,7 @@ body {
 #intro {
   text-align: center; }
   #intro .get-started {
-    background-color: #d324f2;
+    background-color: #c24bf2;
     padding: 1em 3em; }
   #intro .try-demo {
     padding: 1em 3em;
@@ -90,5 +90,19 @@ body {
   background-image: url("../img/slanted-phone.jpg");
   background-repeat: no-repeat;
   background-position: bottom center; }
+
+#take-look {
+  background-color: #c24bf2;
+  text-align: center;
+  padding: 3em 0;
+  color: #FFF; }
+  #take-look h2 {
+    text-transform: uppercase; }
+  #take-look a.take-my-money {
+    background-color: #1abc9c; }
+  #take-look a.free-account {
+    color: #FFF;
+    border-color: #FFF;
+    margin-left: 1em; }
 
 /*# sourceMappingURL=app.css.map */
