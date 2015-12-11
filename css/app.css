@@ -105,4 +105,14 @@ body {
     border-color: #FFF;
     margin-left: 1em; }
 
+#video-demo {
+  position: relative; }
+  #video-demo i {
+    position: absolute;
+    font-size: 8vw;
+    top: 50%;
+    left: 50%;
+    color: #FFF;
+    transform: translate(-50%, -50%); }
+
 /*# sourceMappingURL=app.css.map */
