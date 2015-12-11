@@ -9,7 +9,7 @@ body {
   text-transform: uppercase;
   padding: .5em;
   margin-top: 1em;
-  background-color: #924adb; }
+  background-color: #ad71ed; }
   .btn-solid:hover {
     color: #FFF; }
 
@@ -19,13 +19,13 @@ body {
   border-radius: 2px;
   text-transform: uppercase;
   padding: 1em;
-  border: 2px solid #924adb;
+  border: 2px solid #ad71ed;
   margin-top: 1em; }
   .btn-outline:hover {
     color: #C0C4C7; }
 
 #landing {
-  background-color: #924adb;
+  background-color: #ad71ed;
   color: #FFF;
   text-align: center;
   padding-top: 3em; }
@@ -76,7 +76,7 @@ body {
 #intro {
   text-align: center; }
   #intro .get-started {
-    background-color: #924adb;
+    background-color: #ad71ed;
     padding: 1em 3em; }
   #intro .try-demo {
     padding: 1em 3em;
@@ -92,7 +92,7 @@ body {
   background-position: bottom center; }
 
 #take-look {
-  background-color: #924adb;
+  background-color: #ad71ed;
   text-align: center;
   padding: 3em 0;
   color: #FFF; }
