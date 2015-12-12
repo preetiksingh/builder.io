@@ -2,6 +2,8 @@
 
 	position: relative;
 
+
+
 	i {
 	
 		position:absolute;
@@ -11,5 +13,9 @@
 		color:#FFF;
 		transform : translate(-50%,-50%);
 
+	}
+
+	img {
+		width: 100%
 	}
 }

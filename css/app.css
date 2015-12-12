@@ -114,6 +114,8 @@ body {
     left: 50%;
     color: #FFF;
     transform: translate(-50%, -50%); }
+  #video-demo img {
+    width: 100%; }
 
 #customization {
   text-align: center;
@@ -173,6 +175,9 @@ body {
       #pricing .price-option a.signup.btn-outline {
         color: #ad71ed;
         border-color: #ad71ed; }
+      #pricing .price-option a.signup.btn-solid {
+        color: #FFF;
+        border-color: #FFF; }
   #pricing .user_count {
     color: #ad71ed;
     margin-top: 1em;

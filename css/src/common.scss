@@ -8,7 +8,7 @@ color:$dark-font-color;
 .btn-solid {
 
 	font-weight:bold;
-	color:#FFF;
+	color:$light-font-color;
 	border-radius:2px;
 	text-transform: uppercase;
 	padding:.5em;
@@ -16,7 +16,7 @@ color:$dark-font-color;
 	background-color: $primary-color;
 
 	&:hover {
-	color: #FFF
+	color: $light-font-color;
 	
   }
 }

@@ -64,6 +64,11 @@
         color: $primary-color;
         border-color: $primary-color;
       }
+
+      &.btn-solid {
+        color: $light-font-color;
+        border-color: $light-font-color;
+      }
     }
   }
 
