@@ -115,4 +115,14 @@ body {
     color: #FFF;
     transform: translate(-50%, -50%); }
 
+#customization {
+  text-align: center;
+  padding: 5em 0;
+  background-color: #F7F7F5; }
+  #customization i {
+    font-size: 3em;
+    color: #ad71ed; }
+  #customization a {
+    color: #ad71ed; }
+
 /*# sourceMappingURL=app.css.map */
